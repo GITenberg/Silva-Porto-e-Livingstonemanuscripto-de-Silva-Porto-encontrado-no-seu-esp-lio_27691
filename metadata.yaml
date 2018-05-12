@@ -1,0 +1,32 @@
+_repo: Silva-Porto-e-Livingstonemanuscripto-de-Silva-Porto-encontrado-no-seu-esp-lio_27691
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Porto, António Francisco Ferreira da Silva
+    alias: Porto, Antonio Francisco Ferreira da Silva
+    birthdate: 1817
+    deathdate: 1890
+    gutenberg_agent_id: '32849'
+    url: http://www.gutenberg.org/2009/agents/32849
+    wikipedia: http://en.wikipedia.org/wiki/Ant%C3%B3nio_da_Silva_Porto
+description: ''
+gutenberg_issued: '2009-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27691'
+  lccn: '16013820'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa -- Discovery and exploration'
+- !lcsh 'Livingstone, David, 1813-1873'
+- !lcc 'DT'
+title: 'Silva Porto e Livingstone
+
+  manuscripto de Silva Porto encontrado no seu espólio'
+url: http://www.gutenberg.org/ebooks/27691
