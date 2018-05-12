@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32849
     wikipedia: http://en.wikipedia.org/wiki/Ant%C3%B3nio_da_Silva_Porto
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27691#Silva-Porto-e-Livingstonemanuscripto-de-Silva-Porto-encontrado-no-seu-esp-lio
 gutenberg_issued: '2009-01-03'
 gutenberg_type: Text
 identifiers:
